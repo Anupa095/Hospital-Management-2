@@ -1,12 +1,134 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|c:\\users\\anupa\\desktop\\hospital 02\\hospitala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|c:\\users\\anupa\\desktop\\hospital 02\\hospitala\\repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|solutionrelative:repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|c:\\users\\anupa\\desktop\\hospital 02\\hospitala\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|c:\\users\\anupa\\desktop\\hospital 02\\hospitala\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|c:\\users\\anupa\\desktop\\hospital 02\\hospitala\\hospitala.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|solutionrelative:hospitala.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|c:\\users\\anupa\\desktop\\hospital 02\\hospitala\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|c:\\users\\anupa\\desktop\\hospital 02\\hospitala\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C640F643-DFFA-4FC0-8D5D-843F6C22128D}|Hospitala.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\Repositories\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\Repositories\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Repositories\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:20:21.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T05:22:48.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:23:43.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T05:54:58.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hospitala.csproj",
+              "DocumentMoniker": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\Hospitala.csproj",
+              "RelativeDocumentMoniker": "Hospitala.csproj",
+              "ToolTip": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\Hospitala.csproj",
+              "RelativeToolTip": "Hospitala.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T06:02:23.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:25:29.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Anupa\\Desktop\\Hospital 02\\Hospitala\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:24:38.488Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

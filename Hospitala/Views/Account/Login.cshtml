@@ -1,0 +1,9 @@
+﻿@model Hospital.Models.LoginViewModel
+<h2>Login</h2>
+<form asp-action="Login" method="post">
+    <input asp-for="Username" /><br />
+    <input asp-for="Password" type="password" /><br />
+    <input asp-for="RememberMe" type="checkbox" /> Remember me<br />
+    <button type="submit">Login</button>
+</form>
+@Html.ValidationSummary()
