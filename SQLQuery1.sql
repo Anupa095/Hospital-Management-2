@@ -1,1 +1,1 @@
-create database "HospitalDB";
+SELECT * FROM Products;

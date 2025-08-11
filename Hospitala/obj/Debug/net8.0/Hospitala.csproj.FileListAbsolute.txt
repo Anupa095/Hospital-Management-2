@@ -25,7 +25,6 @@ C:\Users\Anupa\Desktop\Hospital 02\Hospitala\obj\Debug\net8.0\staticwebassets\ms
 C:\Users\Anupa\Desktop\Hospital 02\Hospitala\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hospitala.props
 C:\Users\Anupa\Desktop\Hospital 02\Hospitala\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hospitala.props
 C:\Users\Anupa\Desktop\Hospital 02\Hospitala\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Anupa\Desktop\Hospital 02\Hospitala\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Anupa\Desktop\Hospital 02\Hospitala\obj\Debug\net8.0\Hospitala.dll
 C:\Users\Anupa\Desktop\Hospital 02\Hospitala\obj\Debug\net8.0\refint\Hospitala.dll
 C:\Users\Anupa\Desktop\Hospital 02\Hospitala\obj\Debug\net8.0\Hospitala.pdb
@@ -186,3 +185,5 @@ C:\Users\Anupa\Desktop\Hospital 02\Hospitala\bin\Debug\net8.0\runtimes\win\lib\n
 C:\Users\Anupa\Desktop\Hospital 02\Hospitala\obj\Debug\net8.0\Hospitala.csproj.Up2Date
 C:\Users\Anupa\Desktop\Hospital 02\Hospitala\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Users\Anupa\Desktop\Hospital 02\Hospitala\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Anupa\Desktop\Hospital 02\Hospitala\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Anupa\Desktop\Hospital 02\Hospitala\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
