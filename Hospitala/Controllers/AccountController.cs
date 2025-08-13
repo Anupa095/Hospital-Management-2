@@ -7,17 +7,21 @@ public class AccountController : Controller
     [HttpGet]
     public IActionResult Login()
     {
+        // Already logged in? Go to Products
+        if (!string.IsNullOrEmpty(HttpContext.Session.GetString(SessionKeyUser)))
+        {
+            return RedirectToAction("Index", "Products");
+        }
         return View();
     }
 
     [HttpPost]
     public IActionResult Login(string username, string password)
     {
-        // Hardcoded check
         if (username == "admin" && password == "123")
         {
             HttpContext.Session.SetString(SessionKeyUser, username);
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Index", "Products"); // ✅ Redirect to Products
         }
 
         ViewBag.Error = "Invalid username or password";
